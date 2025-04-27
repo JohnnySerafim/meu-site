@@ -1,0 +1,32 @@
+
+================= NOVA MENSAGEM =================
+Nome: Johnny
+Email: 
+Telefone: 
+Assunto: 
+Mensagem:
+Olá tudo bem?
+você estuda python?
+
+=================================================
+
+
+================= NOVA MENSAGEM =================
+Nome: Johnny
+Email: 
+Telefone: 
+Assunto: 
+Mensagem:
+Hello
+=================================================
+
+
+================= NOVA MENSAGEM =================
+Nome: Jose
+Email: jose@gmail.com
+Telefone: 
+Assunto: 
+Mensagem:
+Conseguiu me achar kkkkk
+=================================================
+
